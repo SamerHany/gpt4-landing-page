@@ -8,5 +8,5 @@ This project is about converting a modern UI/UX Figma design into a fully functi
 ![Modern UI/UX GPT-4](https://samerhany.com/static/assets/img/portfolio/gpt4_react_app.png)
 
 ## Credits
-The Figma design was made by [AR Shakir](https://www.arshakir.com/).
+The Figma design was made by [AR Shakir](https://www.arshakir.com/).  
 Thanks to [JS Mastery](https://www.jsmastery.pro/) for their invaluable web development tutorials.
